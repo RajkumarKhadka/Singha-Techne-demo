@@ -11,7 +11,7 @@ There are several ways of editing your application.
 **Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/95b83938-6990-4d8e-9bb9-307de0001b3d) and start prompting.
-
+You can easily navigate.
 Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
@@ -72,4 +72,5 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
 
